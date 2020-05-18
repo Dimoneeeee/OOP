@@ -1,0 +1,10 @@
+Task 1:
+Enter a sequence of numbers:
+0 2 3 9 -4 2 -12 -3 5
+All non-negative numbers in the entered sequence:
+0 2 3 9 2 5
+Task 2:
+Enter a sequence of numbers:
+2 1 0 -6 -12 0 6 4 0 2 1 5
+The sum of the sequence elements between the first and last zero elements:
+-8
