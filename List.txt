@@ -1,0 +1,67 @@
+List:
+
+Administration:
+FirstName: Dimka
+SecondName: Viktorovich
+LastName: Branchuk
+Date of birth: 1999
+Post: Director
+
+Worker:
+FirstName: Lizka
+SecondName: Sergeevna
+LastName: Ktototavna
+DateOfBirth: 2001
+Experience: 19 year
+
+Worker:
+FirstName: Dimas
+SecondName: Andreeevich
+LastName: Koren
+DateOfBirth: 1993
+Experience: 15 year
+
+Worker:
+FirstName: Denis
+SecondName: Alekseevich
+LastName: Boss
+DateOfBirth: 1995
+Experience: 22 year
+
+Worker:
+FirstName: Mishka
+SecondName: Nikitich
+LastName: Samss
+DateOfBirth: 1992
+Experience: 33 year
+Education: Higher technical education
+
+Worker:
+FirstName: Dashka
+SecondName: Vladimirovna
+LastName: Lololo
+DateOfBirth: 1991
+Experience: 6 year
+Education: Higher technical education
+
+Administration:
+FirstName: UndefinedFirstName
+SecondName: UndefinedSecondName
+LastName: UndefinedLastName
+Date of birth: 1
+Post: UndefinedPost
+
+Worker:
+FirstName: UndefinedFirstName
+SecondName: UndefinedSecondName
+LastName: UndefinedLastName
+DateOfBirth: 1
+Experience: UndefinedExperience
+
+Worker:
+FirstName: UndefinedFirstName
+SecondName: UndefinedSecondName
+LastName: UndefinedLastName
+DateOfBirth: 1
+Experience: UndefinedExperience
+Education: UndefinedEducation
